@@ -1,2 +1,2 @@
 #!/bin/sh
-pandoc -s ./resume.html -o ./README.md
+pandoc -s ./index.html -o ./README.md
