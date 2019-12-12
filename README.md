@@ -104,7 +104,7 @@ Purch, New York, \[<https://www.futureplc.com/>\]
 -   developed a lot of new features and improvements for existing sites
 -   developed multiple tools to make development easier
 
-In September, 2019 Purch was acquired by Future PLC.
+In September, 2018 Purch was acquired by Future PLC.
 :::
 
 ------------------------------------------------------------------------
