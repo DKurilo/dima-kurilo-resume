@@ -155,5 +155,5 @@ Developed and launched 30+ projects, including
 -----------
 
 **Moscow Engineering Physics Institute (MEPhI), Moscow, Russia**\
-Engineer-physicist (MS equivalent degree), Electronics and Automatics,
+Engineer-physicist (MS equivalent degree), Electronics and Automation,
 1995 --- 2000
