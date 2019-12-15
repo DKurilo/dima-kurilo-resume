@@ -19,30 +19,25 @@ StackOverflow profile:
 LinkedIn profile:
 [https://www.linkedin.com/in/dkurilo/](https://www.linkedin.com/in/dkurilo/?locale=en_US)\
 HackerRank profile: <https://www.hackerrank.com/dkurilo>\
-You can also find me on the first place on [HackerRank Functional
-Programming Practice
-Leaderboard](https://www.hackerrank.com/leaderboard?page=1&track=fp&type=practice)
 
-*Technologies*
---------------
+*I want to work with:*
+----------------------
 
   ----------------------------------- -----------------------------------
-  Haskell\                            Angular\
-  Go\                                 Angular JS\
-  JavaScript (ES6/ES7)\               npm / Webpack / yarn / \...\
-  TypeScript\                         Git\
-  Node.js\                            C\#/.NET\
-  React                               Other technoligies
+  **Haskell** - using now\            **PureScript**/**GHCJS**\
+  **Go** - using now                  **Rust**
 
   ----------------------------------- -----------------------------------
 
-*Selected Personal Projects*
-----------------------------
+*I can:*
+--------
 
--   [Battleship game (try it)](https://battleship-fp.com/): Haskell +
-    MongoDB + React + TypeScript: <https://battleship-fp.com/>.
--   FireFox extension:
-    <https://addons.mozilla.org/en-US/firefox/addon/esi-testing-extension/>.
+  ----------------------------------- ------------------------------------
+  **JavaScript**/**TypeScript**\      **GraphQL**/**Apollo GraphQL
+  **Python**\                         server**
+                                      **MySQL**/**MongoDB**/**ArangoDB**
+
+  ----------------------------------- ------------------------------------
 
 *Professional Experience*
 -------------------------
@@ -58,21 +53,17 @@ Future PLC, New York, \[<https://www.futureplc.com/>\]
 -   migrating the sites of acquired companies into the corporate
     publishing platform
 -   developing and maintaining the corporate publishing platform
--   creating tools to increase efficiency of the corporate platform
-    development and maintenance
 
 *Achievements*
 
 -   implemented a Go package that provides EDSL (embedded domain
-    specific language) for describing HTML transformation (recursive top
-    down node by node transformation) and applies this transformation to
-    a given node. All transformations are composable, as a result, the
-    package allows to make any complex transformation using just a few
-    lines of code
+    specific language) for describing composition of HTML
+    transformations. As a result, the package allows to make any complex
+    transformation using just a few lines of code
 -   created a Haskell-based set of tools that allows to make complex
-    changes in huge amount of large json files through API; it uses
-    Control.Concurrent.STM TBQueue for concurrency and
-    Data.Aeson/Data.Aeson.Lens to work with JSON
+    changes in huge amount of large json files through API.
+-   implemented a set of GraphQL directives that allows to remove
+    resolvers and describe GraphQL schemas in a declarative way.
 -   implemented a complex cross-platform feature that allows the company
     to use a better SEO strategy. During the implementation updated
     components written in Go, JavaScript, TypeScript, PHP
@@ -90,19 +81,10 @@ Purch, New York, \[<https://www.futureplc.com/>\]
 
 -   maintaining and developing existing and participating in development
     of new high-load projects, for example:
-    -   <https://www.tomsguide.com/>
-    -   <https://www.tomshardware.com/>
     -   <https://www.space.com/>
     -   [https://www.livesciense.com/](https://www.livescience.com/)
-    -   [https://www.laptopmag.com/](https://www.laptop.com/)
-    -   <https://www.toptenreviews.com/>
-
-*Achievements*
-
--   significantly improved page load time for LiveScience.com and
-    Space.com
--   developed a lot of new features and improvements for existing sites
--   developed multiple tools to make development easier
+    -   <https://www.tomsguide.com/>
+    -   <https://www.tomshardware.com/>
 
 In September, 2018 Purch was acquired by Future PLC.
 :::
@@ -127,8 +109,6 @@ Creative Soldier, Broolkyn, \[<http://creativesoldier.com/>\]
 *Achievements*\
 Developed and launched 30+ projects, including
 
--   http://rentbettermiami.com/ \[<http://rentbettermiami.com/>\]
-    (Angular 2)
 -   The Duchess \[<https://duchessapartments.com/>\] (AngularJS + MODX)
 -   Two Light, Kansas City \[<https://twolightkc.com/>\] (AngularJS +
     MODX)
@@ -143,8 +123,6 @@ Developed and launched 30+ projects, including
     \[<http://www.kushnercompanies.com/>\]
 -   Property Market Group official website \[<http://propertymg.com/>\]
     (MODX)
--   Verzasca Group official website \[<http://verzasca-group.com/>\]
-    (MODX)
 -   Trump Parc East website and other Trump\'s hotels sites
     \[<http://www.trumpparceast.com/>\] (MODX)
 :::
@@ -155,5 +133,4 @@ Developed and launched 30+ projects, including
 -----------
 
 **Moscow Engineering Physics Institute (MEPhI), Moscow, Russia**\
-Engineer-physicist (MS equivalent degree), Electronics and Automation,
-1995 --- 2000
+Engineer-physicist (MS equivalent degree), Electronics and Automation
