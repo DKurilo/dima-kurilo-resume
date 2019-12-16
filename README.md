@@ -9,7 +9,7 @@ Dima Kurilo
 Senior Software Engineer
 ------------------------
 
-**<DKurilo@gmail.com>** (strongly preffered)\
+**<DKurilo@gmail.com>** (strongly preferred)\
 **(646) 404-25-54**\
 Brooklyn, NY 11214
 
