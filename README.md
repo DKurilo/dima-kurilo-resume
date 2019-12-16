@@ -34,7 +34,7 @@ HackerRank profile: <https://www.hackerrank.com/dkurilo>\
 
   ----------------------------------- ------------------------------------
   **JavaScript**/**TypeScript**\      **GraphQL**/**Apollo GraphQL
-  **Python**\                         server**
+  **Python**                          server**\
                                       **MySQL**/**MongoDB**/**ArangoDB**
 
   ----------------------------------- ------------------------------------
