@@ -32,12 +32,13 @@ HackerRank profile: <https://www.hackerrank.com/dkurilo>\
 *I can:*
 --------
 
-  ----------------------------------- ------------------------------------
+  ----------------------------------- -------------------------------------
   **JavaScript**/**TypeScript**\      **GraphQL**/**Apollo GraphQL
-  **Python**                          server**\
-                                      **MySQL**/**MongoDB**/**ArangoDB**
+  **Python**\                         server**\
+  **HTML**/**CSS**                    **MySQL**/**MongoDB**/**ArangoDB**\
+                                      **PHP**
 
-  ----------------------------------- ------------------------------------
+  ----------------------------------- -------------------------------------
 
 *Professional Experience*
 -------------------------
@@ -45,8 +46,8 @@ HackerRank profile: <https://www.hackerrank.com/dkurilo>\
 ::: {.section}
 #### Senior Web Engineer
 
-09/2018 to Current\
-Future PLC, New York, \[<https://www.futureplc.com/>\]
+12/2017 to 01/2020\
+Future PLC / Purch, New York, \[<https://www.futureplc.com/>\]
 
 *Responsibilities*
 
@@ -67,26 +68,10 @@ Future PLC, New York, \[<https://www.futureplc.com/>\]
 -   implemented a complex cross-platform feature that allows the company
     to use a better SEO strategy. During the implementation updated
     components written in Go, JavaScript, TypeScript, PHP
-:::
-
-------------------------------------------------------------------------
-
-::: {.section}
-#### Senior Web Engineer
-
-12/2017 to 09/2018\
-Purch, New York, \[<https://www.futureplc.com/>\]
-
-*Responsibilities*
-
 -   maintaining and developing existing and participating in development
     of new high-load projects, for example:
     -   <https://www.space.com/>
-    -   [https://www.livesciense.com/](https://www.livescience.com/)
     -   <https://www.tomsguide.com/>
-    -   <https://www.tomshardware.com/>
-
-In September, 2018 Purch was acquired by Future PLC.
 :::
 
 ------------------------------------------------------------------------
@@ -110,8 +95,6 @@ Creative Soldier, Broolkyn, \[<http://creativesoldier.com/>\]
 Developed and launched 30+ projects, including
 
 -   The Duchess \[<https://duchessapartments.com/>\] (AngularJS + MODX)
--   Two Light, Kansas City \[<https://twolightkc.com/>\] (AngularJS +
-    MODX)
 -   Austin Nichols House \[<http://austinnicholshouse.com/>\] (MODX,
     AngularJS for mobile version)
 -   EVE at the District \[<http://eve.miami/>\] (AngularJS + MODX)
