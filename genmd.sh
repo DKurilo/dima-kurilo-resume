@@ -1,2 +1,2 @@
 #!/bin/sh
-pandoc -s ./index.html -o ./README.md
+pandoc -f html -t gfm -s ./index.html -o ./README.md
