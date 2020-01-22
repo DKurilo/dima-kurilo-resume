@@ -22,10 +22,10 @@ HackerRank profile: <https://www.hackerrank.com/dkurilo>
 </colgroup>
 <tbody>
 <tr class="odd">
+<td><strong>Go</strong> - using now<br />
+<strong>JavaScript</strong> - using now</td>
 <td><strong>Haskell</strong> - using now<br />
-<strong>Go</strong> - using now</td>
-<td><strong>PureScript</strong>/<strong>GHCJS</strong><br />
-<strong>Rust</strong></td>
+<strong>PureScript</strong>/<strong>GHCJS</strong></td>
 </tr>
 </tbody>
 </table>
