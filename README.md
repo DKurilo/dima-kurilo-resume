@@ -45,7 +45,6 @@ HackerRank profile: <https://www.hackerrank.com/dkurilo>
 <strong>HTML</strong>/<strong>CSS</strong><br />
 <strong>Docker</strong></td>
 <td><strong>GraphQL</strong>/<strong>Apollo GraphQL server</strong><br />
-<strong>Kibana</strong>/<strong>Elasticsearch</strong>/<strong>Timelion</strong> - as user, not DevOps<br />
 <strong>CI/CD</strong> with <strong>Jenkins</strong>/<strong>travis-ci</strong>/<strong>GitLab</strong>/<strong>Ansible</strong> <strong>MySQL</strong>/<strong>MongoDB</strong>/<strong>ArangoDB</strong><br />
 <strong>PHP</strong></td>
 </tr>
