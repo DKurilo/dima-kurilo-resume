@@ -4,7 +4,7 @@
 
 **<DKurilo@gmail.com>** (strongly preferred)  
 **(646) 404-25-54**  
-Brooklyn, NY 11214
+Brooklyn, NY 11215
 
 GitHub profile: <https://github.com/DKurilo/>  
 StackOverflow profile:
@@ -12,23 +12,6 @@ StackOverflow profile:
 LinkedIn profile:
 [https://www.linkedin.com/in/dkurilo/](https://www.linkedin.com/in/dkurilo/?locale=en_US)  
 HackerRank profile: <https://www.hackerrank.com/dkurilo>  
-
-## *I want to work with:*
-
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>Go</strong> - using now<br />
-<strong>JavaScript</strong> - using now</td>
-<td><strong>Haskell</strong> - using now<br />
-<strong>PureScript</strong>/<strong>GHCJS</strong></td>
-</tr>
-</tbody>
-</table>
 
 ## *I can:*
 
@@ -39,19 +22,63 @@ HackerRank profile: <https://www.hackerrank.com/dkurilo>
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>JavaScript</strong>/<strong>TypeScript</strong><br />
-<strong>Angular</strong>/<strong>React</strong><br />
-<strong>Python</strong><br />
-<strong>HTML</strong>/<strong>CSS</strong><br />
-<strong>Docker</strong></td>
-<td><strong>GraphQL</strong>/<strong>Apollo GraphQL server</strong><br />
-<strong>CI/CD</strong> with <strong>Jenkins</strong>/<strong>travis-ci</strong>/<strong>GitLab</strong>/<strong>Ansible</strong> <strong>MySQL</strong>/<strong>MongoDB</strong>/<strong>ArangoDB</strong><br />
-<strong>PHP</strong></td>
+<td><strong>JavaScript</strong> / <strong>TypeScript</strong><br />
+<strong>Terraform</strong> / <strong>Kubernetes</strong> / <strong>Helm</strong><br />
+<strong>CircleCI</strong> / <strong>GitHub</strong> / <strong>TravisCI</strong> / <strong>Jenkins</strong><br />
+<strong>Docker</strong><br />
+<strong>Python</strong> <strong>AWS (EKS, EC2, Lambdas and other)</strong> / <strong>Google Cloud Platform</strong><br />
+</td>
+<td><strong>Haskell</strong><br />
+<strong>GraphQL</strong> / <strong>Apollo GraphQL server</strong><br />
+<strong>MySQL</strong> / <strong>MongoDB</strong><br />
+<strong>some experience with Kafka</strong><br />
+<strong>number of other programming languages</strong><br />
+<strong>prefer funcional programming approach</strong></td>
 </tr>
 </tbody>
 </table>
 
 ## *Professional Experience*
+
+<div class="section">
+
+#### Senior Software Engineer / Backend Engineer
+
+03/2020 - now  
+Patch.com, New York,
+\[[https://patch.com/](https://www.futureplc.com/)\]
+
+*Responsibilities*
+
+  - patch.com new version developing
+  - system architecture development
+  - CI/CD development (CircleCI)
+  - DevOps: configuring systems with Terraform, kubernetes (AWS EKS),
+    docker, Helm
+  - Dev tools development
+  - Legacy system support
+
+*Tech Stack*
+
+  - JavaScript / TypeScript
+  - AWS: Lambda, EC2, EKS, etc
+  - Fastly
+  - Auth0
+  - MySQL / MongoDB
+  - Terraform / Kubernetes / Helm / docker
+  - CircleCI / GitHub / Jira / Confluence
+  - Google Cloud Platform: BigQuery, Functions, Pub/Sub, etc
+
+*Achievements*
+
+  - described part of infrastructure in Terraform
+  - started EKS k8s, build Helm charts for some servies and set up CI/CD
+  - developed and set up Data Warehous (GCP BigQuery based) load system
+  - developed DSL to generate content feed from different sources
+
+</div>
+
+-----
 
 <div class="section">
 
