@@ -53,7 +53,7 @@ Patch.com, New York,
   - patch.com new version developing
   - system architecture development
   - CI/CD development (CircleCI)
-  - DevOps: configuring systems with Terraform, kubernetes (AWS EKS),
+  - DevOps: configuring systems with Terraform, Kubernetes (AWS EKS),
     docker, Helm
   - Dev tools development
   - Legacy system support
@@ -72,8 +72,8 @@ Patch.com, New York,
 *Achievements*
 
   - described part of infrastructure in Terraform
-  - started EKS k8s, build Helm charts for some servies and set up CI/CD
-  - developed and set up Data Warehous (GCP BigQuery based) load system
+  - started EKS k8s, built Helm charts for some servies and set up CI/CD
+  - developed and set up Data Warehouse (GCP BigQuery based) load system
   - developed DSL to generate content feed from different sources
 
 </div>
