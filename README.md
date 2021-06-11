@@ -22,18 +22,19 @@ HackerRank profile: <https://www.hackerrank.com/dkurilo>
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>JavaScript</strong> / <strong>TypeScript</strong><br />
-<strong>Terraform</strong> / <strong>Kubernetes</strong> / <strong>Helm</strong><br />
+<td><strong>JavaScript</strong> / <strong>TypeScript / node.js</strong><br />
+<strong>fp-ts</strong> / <strong>io-ts</strong> / <strong>Rambda</strong> / <strong>sanctuary</strong><br />
+<strong>Terraform</strong> / <strong>Kubernetes</strong> / <strong>Helm</strong> / <strong>Serverless</strong><br />
 <strong>CircleCI</strong> / <strong>GitHub</strong> / <strong>TravisCI</strong> / <strong>Jenkins</strong><br />
 <strong>Docker</strong><br />
 <strong>Python</strong> <strong>AWS (EKS, EC2, Lambdas and other)</strong> / <strong>Google Cloud Platform</strong><br />
 </td>
 <td><strong>Haskell</strong><br />
 <strong>GraphQL</strong> / <strong>Apollo GraphQL server</strong><br />
-<strong>MySQL</strong> / <strong>MongoDB</strong><br />
+<strong>MySQL</strong> / <strong>MongoDB</strong> / <strong>BigQuery</strong> / <strong>DynamoDB</strong><br />
 <strong>some experience with Kafka</strong><br />
 <strong>number of other programming languages</strong><br />
-<strong>prefer funcional programming approach</strong></td>
+<strong>prefer functional programming approach</strong></td>
 </tr>
 </tbody>
 </table>
@@ -45,12 +46,11 @@ HackerRank profile: <https://www.hackerrank.com/dkurilo>
 #### Senior Software Engineer / Backend Engineer
 
 03/2020 - now  
-Patch.com, New York,
-\[[https://patch.com/](https://www.futureplc.com/)\]
+Patch.com, New York, \[<https://patch.com/>\]
 
 *Responsibilities*
 
-  - patch.com new version developing
+  - AuthN/AuthZ platform
   - system architecture development
   - CI/CD development (CircleCI)
   - DevOps: configuring systems with Terraform, Kubernetes (AWS EKS),
@@ -64,17 +64,23 @@ Patch.com, New York,
   - AWS: Lambda, EC2, EKS, etc
   - Fastly
   - Auth0
+  - Serverless
   - MySQL / MongoDB
-  - Terraform / Kubernetes / Helm / docker
+  - Terraform / Kubernetes / Helm / docker / packer
   - CircleCI / GitHub / Jira / Confluence
   - Google Cloud Platform: BigQuery, Functions, Pub/Sub, etc
+  - Haskell for dev tools
 
 *Achievements*
 
+  - Designed and implemented AutN/AuthZ scalable platform (different
+    identity providers, attribute-based access control)
   - described part of infrastructure in Terraform
-  - started EKS k8s, built Helm charts for some servies and set up CI/CD
+  - started EKS k8s, built Helm charts for some services and set up
+    CI/CD
   - developed and set up Data Warehouse (GCP BigQuery based) load system
-  - developed DSL to generate content feed from different sources
+  - developed DSL to generate content feeds for newsletters from
+    different sources
 
 </div>
 
@@ -120,7 +126,7 @@ Future PLC / Purch, New York, \[<https://www.futureplc.com/>\]
 #### Lead Web Developer
 
 05/2014 to 10/2017  
-Creative Soldier, Broolkyn, \[<http://creativesoldier.com/>\]
+Creative Soldier, Brooklyn, \[<http://creativesoldier.com/>\]
 
 *Responsibilities*
 
