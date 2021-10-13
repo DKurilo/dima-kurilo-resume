@@ -27,7 +27,7 @@ HackerRank profile: <https://www.hackerrank.com/dkurilo>
 <strong>Terraform</strong> / <strong>Kubernetes</strong> / <strong>Helm</strong> / <strong>Serverless</strong><br />
 <strong>CircleCI</strong> / <strong>GitHub</strong> / <strong>TravisCI</strong> / <strong>Jenkins</strong><br />
 <strong>Docker</strong><br />
-<strong>Python</strong> <strong>AWS (EKS, EC2, Lambdas and other)</strong> / <strong>Google Cloud Platform</strong><br />
+<strong>AWS (EKS, EC2, Lambdas and other)</strong> / <strong>Google Cloud Platform</strong><br />
 </td>
 <td><strong>Haskell</strong><br />
 <strong>GraphQL</strong> / <strong>Apollo GraphQL server</strong><br />
@@ -60,12 +60,15 @@ Patch.com, New York, \[<https://patch.com/>\]
 
 *Tech Stack*
 
-  - JavaScript / TypeScript
+  - JavaScript / TypeScript / Node.js
+  - fp-ts / io-ts
   - AWS: Lambda, EC2, EKS, etc
+  - gremlin
+  - AWS Neptune
   - Fastly
   - Auth0
   - Serverless
-  - MySQL / MongoDB
+  - MySQL / MongoDB / BigQuery / DynamoDB
   - Terraform / Kubernetes / Helm / docker / packer
   - CircleCI / GitHub / Jira / Confluence
   - Google Cloud Platform: BigQuery, Functions, Pub/Sub, etc
@@ -73,6 +76,7 @@ Patch.com, New York, \[<https://patch.com/>\]
 
 *Achievements*
 
+  - Build system to manage inner structure of editorial team
   - Designed and implemented AutN/AuthZ scalable platform (different
     identity providers, attribute-based access control)
   - described part of infrastructure in Terraform
@@ -146,23 +150,9 @@ Developed and launched 30+ projects, including
   - Austin Nichols House
     \[[http://austinnicholshouse.com/](http://austinnicholshouse.com/ "Austin Nichols House")\]
     (MODX, AngularJS for mobile version)
-  - EVE at the District
-    \[[http://eve.miami/](http://eve.miami/ "EVE at the District")\]
-    (AngularJS + MODX)
   - Presidential City
     \[[http://presidentialcity.com/](http://presidentialcity.com/ "Presidential City")\]
     (AngularJS for mobile version)
-  - Logan Square L Building
-    \[[http://logansquarel.com/](http://logansquarel.com/ "Logan Square L Building")\]
-    (MODX, AngularJS for mobile version)
-  - Kushner Companies official website
-    \[[http://www.kushnercompanies.com/](http://www.kushnercompanies.com/ "Kushner Companies")\]
-  - Property Market Group official website
-    \[[http://propertymg.com/](http://propertymg.com/ "Property Market Group")\]
-    (MODX)
-  - Trump Parc East website and other Trump's hotels sites
-    \[[http://www.trumpparceast.com/](http://www.trumpparceast.com/ "Trump Parc East")\]
-    (MODX)
 
 </div>
 
