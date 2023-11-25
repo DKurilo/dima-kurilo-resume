@@ -46,7 +46,7 @@
     <p>
         GitHub profile: <a href="https://github.com/DKurilo/" target="_blank" rel="noopener noreferrer">https://github.com/DKurilo/</a><br />
         StackOverflow profile: <a href="https://stackoverflow.com/users/1578857/dima-kurilo" target="_blank" rel="noopener noreferrer">https://stackoverflow.com/users/1578857/dima-kurilo</a><br />
-        LinkedIn profile: <a href="https://www.linkedin.com/in/dkurilo/?locale=en_US" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/dkurilo/</a><br />
+        LinkedIn profile: <a href="https://www.linkedin.com/in/dkurilo/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/dkurilo/</a><br />
         HackerRank profile: <a href="https://www.hackerrank.com/dkurilo" target="_blank" rel="noopener noreferrer">https://www.hackerrank.com/dkurilo</a><br />
     </p>
     <h2><em>I can:</em></h2>
@@ -73,7 +73,40 @@
     <h2><em>Professional Experience</em></h2>
     <section>
         <header>
-            <h4>Senior Software Engineer / Backend Engineer</h4>03/2020 - now<br />
+            <h4>Senior Full Stack Developer</h4>12/2021 - now<br />
+            Qualio, [<a href="https://qualio.com/">https://qualio.com/</a>]
+        </header>
+        <em>Responsibilities</em>
+        <ul>
+            <li>Create and maintain services that allows users to search for information</li>
+            <li>Create and maintain services to notify users</li>
+            <li>Help other teams to build back-end and front-end services</li>
+        </ul>
+        <em>Tech Stack</em>
+        <ul>
+            <li>JavaScript / TypeScript / Node.js</li>
+            <li>React / Angular and so on</li>
+            <li>python / SQLAlchemy</li>
+            <li>AWS: AWS-CDK, CloudFormation, ECS, Lambda, EC2, etc</li>
+            <li>Postgres</li>
+            <li>OpenSearch/ElasticSearch</li>
+            <li>Redis</li>
+            <li>CircleCI / GitHub / Jira / Confluence</li>
+            <li>Docker and so on for development and production</li>
+            <li>Hexagonal architecture / Clean architecture</li>
+        </ul>
+        <em>Achievements (only highlights)</em>
+        <ul>
+            <li>index-management-api - inspired by terraform system to manage ElasticSearch/OpenSearch indices, index templates, pipelines, search templates and aliases. It builds configuration from OpenSearch compare it with settings it stores in files and applies changes. System written in TypeScript and can be used as console application or as web service and this allows to use it in CI/CD pipeline.</li>
+            <li>QRI service - QRI is special specification that created to improve company services conectivity by standardizing entities addresses. Service allows to get information about any entity and redirect user to proper URL. It uses caching layer that is built using Redis to properly cache user and entities information</li>
+            <li>Global Search service - smart wrapper written around OpenSearch that allows users to search any entity</li>
+            <li>All services are in the same monorepo I created, provisioning and deployment written using AWS-CDK, smart CircleCI CI/CD pipeline detects and process only projects that were changed, using TypeScript for everything (backend, frontend, infrastructure, integration tests) allows to use <a href="https://docs.npmjs.com/cli/v10/using-npm/workspaces">npm workspces</a> to work with project and the same set of linters and unit tests tools (eslint, jest and so on).</li>
+        </ul>
+    </section>
+    <hr />
+    <section>
+        <header>
+            <h4>Senior Software Engineer / Backend Engineer</h4>03/2020 - 12/2021<br />
             Patch.com, New York, [<a href="https://patch.com/">https://patch.com/</a>]
         </header>
         <em>Responsibilities</em>
