@@ -42,16 +42,18 @@ node.js</strong><br />
 <strong>CircleCI</strong> / <strong>GitHub</strong> /
 <strong>TravisCI</strong> / <strong>Jenkins</strong><br />
 <strong>Docker</strong><br />
-<strong>AWS (EKS, EC2, Lambdas and other)</strong> / <strong>Google
-Cloud Platform</strong><br />
-</td>
+<strong>AWS (CloudFormation, ECS, EKS, EC2, Lambdas and
+other)</strong><br />
+<strong>ElasticSearch</strong> / <strong>OpenSearch</strong></td>
 <td><strong>Haskell</strong><br />
 <strong>GraphQL</strong> / <strong>Apollo GraphQL server</strong><br />
 <strong>MySQL</strong> / <strong>MongoDB</strong> /
 <strong>BigQuery</strong> / <strong>DynamoDB</strong><br />
-<strong>some experience with Kafka</strong><br />
+<strong>Google Cloud Platform</strong> <strong>some experience with
+Kafka</strong><br />
 <strong>number of other programming languages</strong><br />
-<strong>prefer functional programming approach</strong></td>
+<strong>prefer functional programming approach</strong><br />
+</td>
 </tr>
 </tbody>
 </table>
