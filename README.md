@@ -234,16 +234,6 @@ Developed and launched 30+ projects, including
   rel="noopener noreferrer"
   title="The Duchess">https://duchessapartments.com/</a>\] (AngularJS +
   MODX)
-- Austin Nichols House
-  \[<a href="http://austinnicholshouse.com/" target="_blank"
-  rel="noopener noreferrer"
-  title="Austin Nichols House">http://austinnicholshouse.com/</a>\]
-  (MODX, AngularJS for mobile version)
-- Presidential City
-  \[<a href="http://presidentialcity.com/" target="_blank"
-  rel="noopener noreferrer"
-  title="Presidential City">http://presidentialcity.com/</a>\]
-  (AngularJS for mobile version)
 
 </div>
 
