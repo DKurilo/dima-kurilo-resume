@@ -33,8 +33,8 @@ rel="noopener noreferrer">https://www.hackerrank.com/dkurilo</a>
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>JavaScript</strong> / <strong>TypeScript /
-node.js</strong><br />
+<td><strong>JavaScript</strong> / <strong>TypeScript</strong> /
+<strong>node.js</strong><br />
 <strong>fp-ts</strong> / <strong>io-ts</strong> /
 <strong>Rambda</strong> / <strong>sanctuary</strong><br />
 <strong>Terraform</strong> / <strong>Kubernetes</strong> /
@@ -49,11 +49,10 @@ other)</strong><br />
 <strong>GraphQL</strong> / <strong>Apollo GraphQL server</strong><br />
 <strong>MySQL</strong> / <strong>MongoDB</strong> /
 <strong>BigQuery</strong> / <strong>DynamoDB</strong><br />
-<strong>Google Cloud Platform</strong> <strong>some experience with
-Kafka</strong><br />
+<strong>Google Cloud Platform</strong><br />
+<strong>some experience with Kafka</strong><br />
 <strong>number of other programming languages</strong><br />
-<strong>prefer functional programming approach</strong><br />
-</td>
+<strong>prefer functional programming approach</strong></td>
 </tr>
 </tbody>
 </table>
@@ -73,7 +72,7 @@ Qualio, \[<https://qualio.com/>\]
 
 *Responsibilities*
 
-- Create and maintain services that allows users to search for
+- Create and maintain services that allow users to search for
   information
 - Create and maintain services to notify users
 - Help other teams to build back-end and front-end services
@@ -95,25 +94,25 @@ Qualio, \[<https://qualio.com/>\]
 
 - index-management-api - inspired by terraform system to manage
   ElasticSearch/OpenSearch indices, index templates, pipelines, search
-  templates and aliases. It builds configuration from OpenSearch compare
-  it with settings it stores in files and applies changes. System
-  written in TypeScript and can be used as console application or as web
-  service and this allows to use it in CI/CD pipeline.
-- QRI service - QRI is special specification that created to improve
-  company services conectivity by standardizing entities addresses.
-  Service allows to get information about any entity and redirect user
-  to proper URL. It uses caching layer that is built using Redis to
-  properly cache user and entities information
+  templates and aliases. It builds configuration from OpenSearch,
+  compares it with settings it stores in files and applies changes.
+  System written in TypeScript and can be used as a console application
+  or as a web service and this allows to use it in CI/CD pipeline.
+- QRI service - QRI is special specification that was created to improve
+  the company's services conectivity by standardizing entities'
+  addresses. The service allows to get information about any entity and
+  redirects users to proper URLs. It uses a caching layer that is built
+  using Redis to properly cache user and entities information
 - Global Search service - smart wrapper written around OpenSearch that
   allows users to search any entity
 - All services are in the same monorepo I created, provisioning and
   deployment written using AWS-CDK, smart CircleCI CI/CD pipeline
-  detects and process only projects that were changed, using TypeScript
-  for everything (backend, frontend, infrastructure, integration tests)
-  allows to use [npm
-  workspces](https://docs.npmjs.com/cli/v10/using-npm/workspaces) to
-  work with project and the same set of linters and unit tests tools
-  (eslint, jest and so on).
+  detects and processes only projects that were changed, using
+  TypeScript for everything – backend, frontend, infrastructure,
+  integration tests – allows to use \`[npm
+  workspaces](https://docs.npmjs.com/cli/v10/using-npm/workspaces)\` to
+  work with subprojects and to use the same set of linters and unit
+  tests tools (eslint, jest and so on) through the whole monorepo.
 
 </div>
 
