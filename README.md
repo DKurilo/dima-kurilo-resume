@@ -92,27 +92,27 @@ Qualio, \[<https://qualio.com/>\]
 
 *Achievements (only highlights)*
 
-- index-management-api - inspired by terraform system to manage
-  ElasticSearch/OpenSearch indices, index templates, pipelines, search
-  templates and aliases. It builds configuration from OpenSearch,
-  compares it with settings it stores in files and applies changes.
-  System written in TypeScript and can be used as a console application
-  or as a web service and this allows to use it in CI/CD pipeline.
-- QRI service - QRI is special specification that was created to improve
-  the company's services conectivity by standardizing entities'
-  addresses. The service allows to get information about any entity and
-  redirects users to proper URLs. It uses a caching layer that is built
-  using Redis to properly cache user and entities information
-- Global Search service - smart wrapper written around OpenSearch that
-  allows users to search any entity
-- All services are in the same monorepo I created, provisioning and
-  deployment written using AWS-CDK, smart CircleCI CI/CD pipeline
-  detects and processes only projects that were changed, using
-  TypeScript for everything – backend, frontend, infrastructure,
-  integration tests – allows to use \`[npm
-  workspaces](https://docs.npmjs.com/cli/v10/using-npm/workspaces)\` to
-  work with subprojects and to use the same set of linters and unit
-  tests tools (eslint, jest and so on) through the whole monorepo.
+- Developed systems using TypeScript, JavaScript, Python, React, and
+  SQLAlchemy, implementing hexagonal/clean architecture principles.
+- Built CI/CD pipelines, development tools, and infrastructure as code
+  predominantly using AWS-CDK (CloudFormation).
+- Notable projects include:
+  - **index-management-api**: Inspired by Terraform, it manages
+    ElasticSearch/OpenSearch indices, templates, pipelines, and aliases.
+    Implemented in TypeScript, it serves as both a console application
+    and a web service, facilitating integration into CI/CD pipelines.
+  - **QRI service**: Standardized entities' addresses, enhancing company
+    service connectivity. Utilized Redis for caching user and entity
+    information.
+  - **Global Search service**: Developed a smart wrapper around
+    OpenSearch for seamless entity searches.
+- Unified all developed services within a monorepo, leveraging AWS-CDK
+  for provisioning and deployment. Implemented a sophisticated CircleCI
+  CI/CD pipeline that intelligently detects and processes only modified
+  projects. Utilized TypeScript across the stack, enabling streamlined
+  management of subprojects with \`[npm
+  workspaces](https://docs.npmjs.com/cli/v10/using-npm/workspaces)\` and
+  consistent tooling (eslint, jest) throughout the monorepo.
 
 </div>
 
